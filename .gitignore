@@ -1,2 +1,5 @@
 pkg
 .DS_Store
+*.[oa]
+*~
+*.gitignore
